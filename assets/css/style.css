@@ -1,0 +1,58 @@
+h1{
+    font-size: 50px;
+    color: rgb(0, 110, 255);
+}
+
+#buttonContainer{
+    display: flex;
+    flex-wrap: wrap;
+    width: fit-content;
+    margin: auto;
+    gap: 10px;
+}
+
+#up{
+    background-color: rgba(245, 245, 220, 0);
+    border-radius: 100%;
+    border:none;
+}
+
+#down{
+    background-color: rgba(245, 245, 220, 0);
+    border-radius: 100%;
+    border:none;
+}
+
+#left{
+    background-color: rgba(245, 245, 220, 0);
+    border-radius: 100%;
+    border:none;
+}
+
+#right{
+    background-color: rgba(245, 245, 220, 0);
+    border-radius: 100%;
+    border:none;
+}
+
+#reset{
+    background-color: rgba(245, 245, 220, 0);
+    border-radius: 100%;
+    border:none;
+}
+
+#winMessage{
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 50px;
+    font-size: 20px;
+    color: rgb(0, 110, 255);
+}
+
+#errorMessage{
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 50px;
+    font-size: 20px;
+    color: rgb(0, 110, 255);
+}
